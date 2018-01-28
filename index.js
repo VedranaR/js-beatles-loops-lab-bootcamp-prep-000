@@ -21,3 +21,12 @@ function johnLennonFacts(facts) {
   return newArray;
 }
 
+function johnLennonFacts (facts){
+  var arrayy = [];
+  var i= 0;
+  i++;
+  while (i<facts.length){
+   arrayy.push(`"${facts[i]} + !!!"`);
+  }
+  return arrayy;
+}
