@@ -21,6 +21,7 @@ function johnLennonFacts (facts){
 
 function iLoveTheBeatles(number){
   var niz =[];
+  var i = 1;
   do{
     niz.push("I love the Beatles!");
     i++;
