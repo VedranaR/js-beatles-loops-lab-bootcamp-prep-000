@@ -18,3 +18,5 @@ function johnLennonFacts (facts){
   }
   return arrayy;
 }
+
+function
