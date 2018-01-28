@@ -22,6 +22,6 @@ function johnLennonFacts (facts){
 function iLoveTheBeatles(number){
   var niz =[];
   do{
-    
+    niz.push()
   }
 }
